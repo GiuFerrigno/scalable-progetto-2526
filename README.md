@@ -1,4 +1,4 @@
-# Progetto Scalable and Cloud Computing - A.A. 2025/2026
+# Progetto Scalable and Cloud Programming - A.A. 2025/2026
 ## Giulia Ferrigno
 
 ### Versioni
